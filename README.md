@@ -16,11 +16,11 @@ This Weather Widget project is a simple React application that displays real-tim
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-widget.git
+   git clone https://github.com/adityabisht13/weather-widget-project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-widget
+   cd weatherwidget-project
    ```
 3. Install dependencies:
    ```bash
