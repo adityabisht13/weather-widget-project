@@ -11,7 +11,7 @@ This Weather Widget project is a simple React application that displays real-tim
 ## Technologies Used
 - **React**: Frontend library for building the user interface
 - **Material-UI**: For stylish and responsive UI components
-- **OpenWeatherMap API (or similar)**: To fetch weather data (if applicable)
+- **OpenWeatherMap API **: To fetch weather data 
 
 ## Installation and Setup
 1. Clone the repository:
